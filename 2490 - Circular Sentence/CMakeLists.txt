@@ -1,5 +1,5 @@
 cmake_minimum_required(VERSION 3.28)
-project("2490 - Circular Sentence")
+project(litcode_solutions)
 
 set(CMAKE_CXX_STANDARD 23)
 
